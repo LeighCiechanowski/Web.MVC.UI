@@ -1,0 +1,8 @@
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\obj\Debug\Ciechanowski.Framework.Web.MVC.UI.csprojResolveAssemblyReference.cache
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\Debug\Ciechanowski.Framework.Web.MVC.UI.dll
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\Debug\Ciechanowski.Framework.Web.MVC.UI.pdb
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\obj\Debug\Ciechanowski.Framework.Web.MVC.UI.dll
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\obj\Debug\Ciechanowski.Framework.Web.MVC.UI.pdb

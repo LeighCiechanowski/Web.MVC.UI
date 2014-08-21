@@ -3,3 +3,6 @@ C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.W
 C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\_tmpIntermediateAT\Ciechanowski.Framework.Web.MVC.UI.pdb
 C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\Ciechanowski.Framework.Web.MVC.UI.dll
 C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\Ciechanowski.Framework.Web.MVC.UI.pdb
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\HtmlAgilityPack.dll
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\HtmlAgilityPack.pdb
+C:\Users\leigh.ciechanowski\Documents\GitHub\Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\Ciechanowski.Framework.Web.MVC.UI\bin\AutoTest.Net\HtmlAgilityPack.xml
