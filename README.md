@@ -1,4 +1,3 @@
-Web.MVC.UI
-==========
+Welcome to the Web.MVC.UI wiki!
 
-asp.net MVC UI Repository
+This project contains a wrapper for the system.web.helpers.webgrid control, which enables the grid to respond to different screen sizes.
